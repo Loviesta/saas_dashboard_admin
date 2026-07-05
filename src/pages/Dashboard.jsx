@@ -4,7 +4,7 @@ import RevenueChart from "../components/charts/RevenueChart";
 import ActivityList from "../components/activity/ActivityList";
 import TargetAnalysis from "../components/cards/TargetAnalysis";
 
-import { stats } from "../data/dashboardData";
+import { stats } from "../data/DashboardData";
 
 export default function Dashboard() {
   return (
